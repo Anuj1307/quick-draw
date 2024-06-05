@@ -1,0 +1,25 @@
+body
+{
+    background: rgb(255,115,0);
+background: linear-gradient(90deg, rgba(255,115,0,1) 0%, rgba(231,190,21,1) 25%, rgba(213,9,167,1) 50%, rgba(161,69,252,1) 75%, rgba(170,69,252,1) 100%);
+}
+
+span
+{
+    padding-top: 10px;
+    font-family: arial;
+    font-size: 25px;
+}
+
+#score
+{
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+#time
+{
+    font-size: 35px;
+    margin-right: 20px;
+    float: right;
+}
